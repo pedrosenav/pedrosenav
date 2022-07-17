@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on Front-End projects.
 
-### Contact
+### Contact 🌐
 - 📫 pedrosenav@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedrosenav/)
 - 🖥 [Behance](https://www.behance.net/pedrosenav)
