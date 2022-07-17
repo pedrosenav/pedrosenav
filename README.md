@@ -9,8 +9,3 @@
 - 🖥 [Behance](https://www.behance.net/pedrosenav)
 - 📷 [Instagram (Personal)](https://www.instagram.com/pedrosenav/)
 - 📸 [Instagram (Design)](https://www.instagram.com/pedrosenav/)
-
-<!---
-pedrosenav/pedrosenav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
