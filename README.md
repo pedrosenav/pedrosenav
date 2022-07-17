@@ -1,4 +1,4 @@
-# Hey, I'm Pedro!
+## Hey, I'm Pedro!
 - 👀 I’m interested in tech and design.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on Front-End projects.
