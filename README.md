@@ -17,21 +17,23 @@ Explicar também meu processo de criação (código, vídeo, design) -->
 
 ### Technologies
 
-<abbr title="HTML5" style="color: #F1FAEE; font-size: 30px; text-decoration: none; margin-right: 8px;"><i class="devicon-html5-plain"></i></abbr>
-<abbr title="CSS3" style="color: #F1FAEE; font-size: 30px; text-decoration: none; margin-right: 8px;"><i class="devicon-css3-plain"></i></abbr>
-<abbr title="JavaScript" style="color: #F1FAEE; font-size: 30px; text-decoration: none; margin-right: 8px;"><i class="devicon-javascript-plain"></i></abbr>
-<abbr title="NodeJS" style="color: #F1FAEE; font-size: 30px; text-decoration: none; margin-right: 8px;"><i class="devicon-nodejs-plain"></i></abbr>
-<abbr title="React" style="color: #F1FAEE; font-size: 30px; text-decoration: none; margin-right: 8px;"><i class="devicon-react-plain"></i></abbr>
-<abbr title="Next JS" style="color: #F1FAEE; font-size: 30px; text-decoration: none; margin-right: 8px;"><i class="devicon-nextjs-plain"></i></abbr>
-<abbr title="Tailwind CSS" style="color: #F1FAEE; font-size: 30px; text-decoration: none; margin-right: 8px;"><i class="devicon-tailwindcss-plain"></i></abbr>
-<abbr title="Git" style="color: #F1FAEE; font-size: 30px; text-decoration: none; margin-right: 8px;"><i class="devicon-git-plain"></i></abbr>
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Next JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<br/>
 
 ### Tools
 
-<abbr title="VS Code" style="color: #F1FAEE; font-size: 30px; text-decoration: none; margin-right: 8px;"><i class="devicon-vscode-plain"></i></abbr>
-<abbr title="Figma" style="color: #F1FAEE; font-size: 30px; text-decoration: none; margin-right: 8px;"><i class="devicon-figma-plain"></i></abbr>
-<abbr title="Photoshop" style="color: #F1FAEE; font-size: 30px; text-decoration: none; margin-right: 8px;"><i class="devicon-photoshop-plain"></i></abbr>
-<abbr title="Illustrator" style="color: #F1FAEE; font-size: 30px; text-decoration: none; margin-right: 8px;"><i class="devicon-illustrator-plain"></i></abbr>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />
+<br/>
 
 #
 
