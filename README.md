@@ -2,7 +2,7 @@
 
 # Pedro Sena
 
-**`Developer/Graphic Designer`**
+**`Frontend Developer`**
 
 <!-- ABOUT ME
 Descrição sobre minha pessoa e eu mesmo, também o que eu quero (talvez usar o mesmo texto para o site de portfolio)
@@ -35,9 +35,7 @@ Explicar também meu processo de criação (código, vídeo, design) -->
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />
 <br/>
 
-#
-
-## YouTube Videos
+<!-- ## YouTube Videos -->
 
 <!-- SCRIPT P/ PEGAR VIDEOS
 checar tutorial no vídeo
